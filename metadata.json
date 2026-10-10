@@ -1,0 +1,6 @@
+{
+  "name": "TouTube - Human Video & Live Chat",
+  "description": "Video sharing, YouTube-style shorts, and interactive live chat platform for authentic human-created content with dark mode support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
